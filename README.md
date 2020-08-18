@@ -21,3 +21,7 @@ as well as total sum(rub.)
 there are two tables included in the database:
 - dishes (3 columns: dish name, weight, price)
 - clients (number of clients). 
+
+
+- **SQL Database
+SQLite was chosen as the "pocket" database for this simple application.
